@@ -1,2 +1,0 @@
-# Reactify
-React Homework
